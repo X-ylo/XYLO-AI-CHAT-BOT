@@ -1,0 +1,28 @@
+.chat-container {
+    flex: 1;
+    overflow-y: auto;
+    overflow-x: hidden;
+    background-color: var(--bg-primary);
+    padding-bottom: 120px;
+}
+
+.messages-wrapper {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: var(--spacing-xl) var(--spacing-lg);
+}
+
+.empty-state {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 60vh;
+    text-align: center;
+}
+
+.empty-state h2 {
+    font-size: 28px;
+    font-weight: 500;
+    color: var(--text-primary);
+    margin: 0;
+}

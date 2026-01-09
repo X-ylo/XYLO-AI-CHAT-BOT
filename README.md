@@ -4,13 +4,13 @@ AI-powered chatbot with ChatGPT-style interface, real-time messaging, and conver
 
 ## Features
 
-✅ **Modern ChatGPT UI** - Minimalist dark theme matching ChatGPT 2024-2025 design  
-✅ **Real-time AI Chat** - Powered by Groq AI with WebSocket support  
-✅ **Conversation Persistence** - MongoDB database for chat history  
-✅ **Projects & Organization** - Create and manage project-specific conversations  
-✅ **Advanced Search** - Real-time search with auto-complete  
-✅ **Full CRUD** - Create, read, update, and delete conversations  
-✅ **Responsive Design** - Works on desktop and mobile  
+- **Modern ChatGPT UI** - Minimalist dark theme matching ChatGPT 2024-2025 design  
+- **Real-time AI Chat** - Powered by Groq AI with WebSocket support  
+- **Conversation Persistence** - MongoDB database for chat history  
+- **Projects & Organization** - Create and manage project-specific conversations  
+- **Advanced Search** - Real-time search with auto-complete  
+- **Full CRUD** - Create, read, update, and delete conversations  
+- **Responsive Design** - Works on desktop and mobile  
 
 ## Tech Stack
 
